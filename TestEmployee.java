@@ -21,7 +21,7 @@ public class TestEmployee{
     Employee emp1=new Employee(1,"Rashmi",5000);
     emp1.getEmpDetails();
     
-    emp1.raiseSalary(20);
+    emp1.raiseSalary(25);
     emp1.getEmpDetails();
   
   }
