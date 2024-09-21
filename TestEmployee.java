@@ -20,7 +20,6 @@ public class TestEmployee{
   public static void main(String[] args){
     Employee emp1=new Employee(1,"Rashmi",5000);
     emp1.getEmpDetails();
-    
     emp1.raiseSalary(25);
     emp1.getEmpDetails();
   
