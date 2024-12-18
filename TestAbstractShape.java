@@ -26,7 +26,7 @@ class Triangle1 extends Shape1{
 	double calculatePerimeter() {
 		return side1+side2+side3;}}
 
-public class AbstractShape {
+public class TestAbstractShape {
 	public static void main(String[] args) {
 		Circle1 circle1=new Circle1(5);
 		System.out.println("Area and Circumference of Circle are");
